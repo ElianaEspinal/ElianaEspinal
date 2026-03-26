@@ -28,7 +28,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=ElianaEspinal&show_icons=true&theme=tokyonight" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USER&theme=tokyonight" />
 </p>
 
@@ -60,7 +60,7 @@
 
 <a href="mailto:espinaleliana22@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" />
 
 </a>
 </p>
