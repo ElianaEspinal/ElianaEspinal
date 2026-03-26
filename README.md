@@ -71,4 +71,3 @@
 
 💡 I love combining design and code to create unique experiences.
 
-![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
